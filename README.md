@@ -1,6 +1,6 @@
 # Gulp-File  
 
-## file structure must be
+### file structure must be
 
 `--public
   --src
@@ -13,12 +13,12 @@
    --index.html
    --style.css`
    
-   ## Run npm install
+   ### Run npm install
    
-   ## set the default path of the project folder in the gulp file.
-   (according to above structure the root folder will be public  : ".../.../public ")
+   ### set the default path of the project folder in the gulp file.
+   (according to above structure the root folder will be public  : ".../.../public/ ")
    
-   ## set the node module path
+   ### set the node module path
    
-   ## inside the gulp file directory run **gulp** to run the gulp file.
+   ### inside the gulp file directory run **gulp** to run the gulp file.
    
