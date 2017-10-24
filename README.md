@@ -2,7 +2,7 @@
 
 ### file structure must be
 
-`--public
+```````--public
   --src
    --app
      --app.js
@@ -11,7 +11,7 @@
    --app3
      --app3.js
    --index.html
-   --style.css`
+   --style.css``````
    
    ### Run npm install
    
