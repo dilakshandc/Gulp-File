@@ -13,6 +13,13 @@
    --index.html
    --style.css```
    
+   
+   
+   
+   
+   
+   
+   
    ### Run npm install
    
    ### set the default path of the project folder in the gulp file.
