@@ -14,18 +14,12 @@
    --style.css
    
    
+   1. Run npm install
    
-   
-   
-   
-   
-   
-   ### Run npm install
-   
-   ### set the default path of the project folder in the gulp file.
+   2. set the default path of the project folder in the gulp file.
    (according to above structure the root folder will be public  : ".../.../public/ ")
    
-   ### set the node module path
+   3. set the node module path
    
-   ### inside the gulp file directory run **gulp** to run the gulp file.
+   4. inside the gulp file directory run **gulp** to run the gulp file.
    
