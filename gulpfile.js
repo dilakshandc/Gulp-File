@@ -173,7 +173,7 @@ var minify_css_single = function (myPath_file) {
 var convertJS = function (paraPath) {
     console.log();
     var files = ["app","app2","app3"];
-    return merge(files.map(function (file, ) {
+    return merge(files.map(function (file) {
         return browserify({ entries: paraPath + '/src/' + file + '/' + file + '.js'},{debug: true ,extensions: ['es6']})
             .transform("babelify", { presets: [babelPresetPath] })
             .bundle()
