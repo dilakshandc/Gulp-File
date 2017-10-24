@@ -2,7 +2,7 @@
 
 ### file structure must be
 
-```````--public
+````--public
   --src
    --app
      --app.js
